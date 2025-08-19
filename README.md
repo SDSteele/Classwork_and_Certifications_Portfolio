@@ -1,5 +1,6 @@
 # Classwork & Certifications Portfolio
 This repo will be pinned in my main GitHub profile and linked inside my main portfolio.
+For a quick look at major certifications, please visit the [summmary](./summary.md)
 
 ## 📖 Repository Structure  
 
