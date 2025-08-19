@@ -30,4 +30,4 @@ Skills Learned:
 -Software Development
 
 
-Certification: Foundations of Cybersecurity ([cert](https://www.credly.com/earner/earned/badge/07a667b1-854f-4374-ade3-7d080465206c))
+Certification: Git and GitHub Essentials ([cert](https://www.credly.com/earner/earned/badge/07a667b1-854f-4374-ade3-7d080465206c))
