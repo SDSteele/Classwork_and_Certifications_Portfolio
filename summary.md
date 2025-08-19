@@ -1,3 +1,5 @@
+NOTE: Professional, large, and primary certifcations listed here. For a full list of certificates please visit [here](https://github.com/SDSteele/Classwork_and_Certifications_Portfolio/tree/main/certificates)
+
 | Certification                                    | Provider               | Date Completed | Link |
 | ------------------------------------------------ | ---------------------- | -------------- | -----|
 | Google Cybersecurity Professional Certificate    | Google                 | 2025           | [link](https://coursera.org/share/3ccc23165a2ea47901982cb837b473ef) |
