@@ -13,3 +13,4 @@ Shell scripting for automation
 File permissions & process management
 
 Certification: IBM Linux & Shell Scripting ([cert](https://www.credly.com/badges/1011d464-58f4-4391-8510-bd432ceb3074))
+[Coursera N9OXUM4EOT60.pdf](https://github.com/user-attachments/files/21860132/Coursera.N9OXUM4EOT60.pdf)
