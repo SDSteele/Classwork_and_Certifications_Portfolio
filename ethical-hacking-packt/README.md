@@ -1,15 +1,15 @@
-Google Cybersecurity Professional Certificate
+PACKT: Ethical Hacking Foundations
 
-Organization: Google (Coursera)
+Organization: PACKT Training
 
-Status: Completed
+Status: In Progress
 
-Skills Learned:
+Skills Learned (so far):
 
-Risk management & frameworks
+Reconnaissance & scanning
 
-Network security & SIEM tools
+Nmap advanced usage
 
-Linux & SQL for security analysts
+Enumeration basics
 
-Certification: Foundations of Cybersecurity ([Google](https://www.credly.com/badges/83da6755-9d73-4eb2-99e3-af40310cdbbf/linked_in_profile))
+Certification: Will be added when completed
