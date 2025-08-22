@@ -1,35 +1,11 @@
-Organization: Infosec (Coursera)
+Organization: Google (Coursera)
 
 Status: Completed
 
-Skills Learned: 
-- Malware Protection
-  
-- Cyber Threat Intelligence
-  
-- Generative AI
-  
-- Security Information And Event Management (SIEM)
-  
-- Endpoint Detection and Response
-  
-- Threat Detection
-  
-- Anomaly Detection
-  
-- Cyber Threat Hunting
-  
-- Intrusion Detection and Prevention
-  
-- Threat Modeling
-  
-- MITRE ATT&CK Framework
-  
-- Linux
+Skills Learned:
 
-Certification:  ([cert](https://coursera.org/share/3b0c07784c4d32ec7d2bb105e1ef1081))
+Certification:  ([cert]( ))
 
-[Coursera HTY4P6PHQFHB.pdf](https://github.com/user-attachments/files/21945734/Coursera.HTY4P6PHQFHB.pdf)
 
 
 
