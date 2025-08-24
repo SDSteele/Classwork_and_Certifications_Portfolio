@@ -1,0 +1,2 @@
+- [University of Michigan Python Functions Files and Dictionaries](https://github.com/SDSteele/UoM-Python_Functions_Files_and_Dictionaries)
+- [University of Michigan Python Basics Class](https://github.com/SDSteele/Uni-of-Michigan-Python-Basics-Class)
