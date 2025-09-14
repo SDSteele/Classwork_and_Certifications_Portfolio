@@ -3,6 +3,7 @@ NOTE: Professional, large, and primary certifcations listed here. For a full lis
 | Certification                                    | Provider               | Date Completed | Link |
 | ------------------------------------------------ | ---------------------- | -------------- | -----|
 | Google Cybersecurity Professional Certificate    | Google                 | 2025           | [link](https://coursera.org/share/3ccc23165a2ea47901982cb837b473ef) |
+| IBM Cybersecurity Analyst Professional Certificate | IBM | ON-GOING | [link]()
 | Hands-on Intro to Linux & Shell Scripting        | IBM                    | 2025           | [link](https://coursera.org/share/becfab178d11f6e6965da33a41a3d19f) |
 | Python Basics                                    | University of Michigan | 2025           | [link](https://coursera.org/share/1dbc10322b167c4faeb66db78460ad58) |
 | Ethical Hacking Foundations                      | PACKT                  | 2025           | [link](https://coursera.org/share/ca87b36eb95b8718b33e6705e0d62324) |
