@@ -1,0 +1,2 @@
+- recommend starting the path with this module and referring to it periodically as you complete other modules to see how each topic area fits in the bigger picture of the penetration testing process
+- 
