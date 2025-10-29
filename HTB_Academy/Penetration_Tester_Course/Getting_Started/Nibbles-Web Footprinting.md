@@ -110,3 +110,9 @@ curl -s http://10.129.42.190/nibbleblog/content/private/config.xml | xmllint --f
 ## Conclusion
 
 Through consistent and careful enumeration, the penetration tester identified Nibbleblog CMS version 4.0.3, confirmed admin credentials, and prepared the groundwork for exploitation via the known authenticated file upload vulnerability. The case emphasizes the value of detailed reconnaissance before exploitation.
+
+---
+<details>
+  cwel is awesome to find password possibilities in a page
+</details>
+</details>
