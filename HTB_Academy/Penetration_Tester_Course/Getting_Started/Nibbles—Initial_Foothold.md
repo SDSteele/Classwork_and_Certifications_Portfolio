@@ -142,7 +142,3 @@ python3 -c 'import pty; pty.spawn("/bin/bash")'
 # list home
 ls /home/nibbler
 ```
-
----
-
-*End of notes — copy this into your GitHub journal as `Nibbles-Initial-Foothold.md`.*
