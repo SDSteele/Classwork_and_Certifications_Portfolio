@@ -73,7 +73,3 @@ id
 - Remove the appended payload and restore the original `monitor.sh` from backup.
 - Try alternative escalation methods: inspecting SUID binaries, weak sudoers entries, cron jobs, and sensitive config files.
 - Practice the same steps on different boxes to build muscle memory.
-
----
-
-*End of summary — save as `Nibbles-Privilege-Escalation-summary.md` in your journal.*
